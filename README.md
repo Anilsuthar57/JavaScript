@@ -1,2 +1,2 @@
 # JavaScript
-This is my JavaScript practice.
+Here are some of my JavaScript practice projects.
